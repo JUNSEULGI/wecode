@@ -1,6 +1,6 @@
-#git 정리
+# git 정리
 
-###git 용어
+### git 용어
 
 1. git clone
 
